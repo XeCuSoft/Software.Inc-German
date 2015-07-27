@@ -1,7 +1,7 @@
 # Software.Inc-German
 
-Deutsch Übersetzung von Spiel Software Inc. 
-http://softwareinc.coredumping.com/
+Dies ist die Deutsch Übersetzung 
+zum Spiel "Software Inc." http://softwareinc.coredumping.com/
 
 Installation :
 das Verzeichnis "German" in das Spielverzeichnis "Software Inc/Localization" verschieben.
