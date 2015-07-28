@@ -1078,7 +1078,7 @@ pro Tag: {2}</Item>
 		<Item Name="ServerDealDetail">Art: {0}
 Leistungseinheit pro Stunde: {1}
 Benötigten Einheiten: {2}</Item>
-		<Item Name="MainDealsDesc">Strike deals with other companies and beat them from the inside
+		<Item Name="MainDealsDesc">Nehme Aufträge anderer Firmen an.
 Du benötigst eine Empfangsdame um Angebote zu erhalten.</Item>
 		<Item Name="IPDealActionBuy">Möchtest du diese IP-Adresse kaufen {0}?</Item>
 		<Item Name="IPDealActionSell">Möchtest du diese IP-Adresse verkaufen {0} für {1}?</Item>
@@ -1090,7 +1090,7 @@ Du benötigst eine Empfangsdame um Angebote zu erhalten.</Item>
 		<Item Name="Hire Receptionist">Empfangsdame einstellen</Item>
 		<Item Name="CompanyNameWarning">Du hast keinen Firmennamen aufgenommen.
 Bist du sicher das du fortfahren möchtest?</Item>
-		<Item Name="ActionConnectServers">Connect servers</Item>
+		<Item Name="ActionConnectServers">Verbundene Server</Item>
 		<Item Name="WireMode">Wire mode</Item>
 		<Item Name="GuestCompany">{0} im Auftrag von {1}</Item>
 	</Alpha5.1>
@@ -1099,4 +1099,23 @@ Bist du sicher das du fortfahren möchtest?</Item>
 		<Item Name="SupportWorkCancelWarning">Die Beendigung der Produktunterstützung, wird unsere Kunden verärgern!
 Bist du sicher, dass du fortfahren möchtest?</Item>
 	</Alpha5.2>
+		<Alpha5.3>
+		<Item Name="AcceptAllWages">Übernehmen und schließen</Item>
+		<Item Name="AcceptAllWagesWarning">Möchtest du wirklich alle Forderungen annehmen?
+Der Durchschnittswert {0}, erhöht sich auf {1} pro Monat</Item>
+		<Item Name="FurnitureQueue">{0} Mitarbeiter/in warten</Item>
+		<Item Name="Upcoming events">kommende Veranstaltungen</Item>
+		<Item Name="UpcomingEvDesc">Übersicht der Veranstaltungen im nächsten Monat. Das Symbol leuchtet Rot bei wichtigen Veranstaltungen.</Item>
+		<Item Name="RetireEventMsg">{0} aus der Gruppe {1} geht nächsten Monat in Rente, nach {2} für {3} Jahre.</Item>
+		<Item Name="VacationEventMsg1">{0} haben nächsten Monat Urlaub geplant. {1} Mitarbeiter haben noch Urlaub.</Item>
+		<Item Name="VacationEventMsg2">Keine Gruppe hat nächsten Monat Urlaub geplant. {0} Mitarbeiter haben noch Urlaub.</Item>
+		<Item Name="ReleaseEventMsg">{0} plant ein Produkt vom Typ {1} namens "{2}" nächsten Monat zu veröffentlichen.</Item>
+		<Item Name="ExceptionNotificationTip">Es ist ein Fehler aufgetreten!</Item>
+		<Item Name="ExceptionNotificationTip2">Klicke hier für Details</Item>
+		<Item Name="ExceptionNotificationMsg">Es tut mir leid Ihnen mitzuteilen das ein Fehler aufgetreten ist, was dazu führen könnte das, dass Spiel unterbrochen oder instabil läuft (Early access).
+Zur Sicherheit speicher dein aktuellen Spielstand und starte das Spiel neu, um Datenverlust zu vermeiden.
+Hast du eine Idee was passiert sein könnte basierend auf der Fehlermeldung (Klicke auf "Fehler anzeigen" zur Überprüfung) ich wäre dir sehr dankbar wenn du mir eine Beschreibung des Fehlers per Email an SoftwareInc@Coredumping.com senden könntest, damit ich diesen beheben kann.
+Tut mir sehr leid für die Unannehmlichkeiten.</Item>
+		<Item Name="UI size">UI Größe</Item>
+	</Alpha5.3>
 </UI>
