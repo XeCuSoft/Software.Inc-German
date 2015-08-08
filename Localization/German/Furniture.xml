@@ -5,7 +5,7 @@
 	</Furniture>
 	<Furniture Name="Glass Table">
 		<Name>Glastisch</Name>
-		<Description>Genieße denn Blick auf die Füße, während du arbeitest.</Description>
+		<Description>Genieße den Blick auf die Füße, während du arbeitest.</Description>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Günstiger Stuhl</Name>
@@ -13,11 +13,11 @@
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>Bürosessel</Name>
-		<Description>Schön gepolsteter Bürosessel, nur die Reder fehlen.</Description>
+		<Description>Schön gepolsteter Bürosessel, nur die Räder fehlen.</Description>
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
 		<Name>Wartestühle</Name>
-		<Description>Sitz möglichkeit für deine Kunden.</Description>
+		<Description>Sitz Möglichkeit für deine Kunden.</Description>
 	</Furniture>
 	<Furniture Name="Couch">
 		<Name>Sofa</Name>
@@ -33,7 +33,7 @@
 	</Furniture>
 	<Furniture Name="Old Computer">
 		<Name>alter Computer</Name>
-		<Description>mehr Pixel als man an einer Hand abzählen kann!</Description>
+		<Description>Mehr Pixel als man an einer Hand abzählen kann!</Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>High-End Computer</Name>
@@ -45,7 +45,7 @@
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
-		<Description>Vergewissere dich das deine Mitarbeiter sehen können was sie da tun.</Description>
+		<Description>Vergewissere dich, dass deine Mitarbeiter sehen können was sie da tun.</Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Tischlampe</Name>
@@ -81,7 +81,7 @@
 	</Furniture>
 	<Furniture Name="TV">
 		<Name>Fernseher</Name>
-		<Description></Description>
+		<Description>Hat nur Standbild, damit auch niemand abgelenkt wird.</Description>
 	</Furniture>
 	<Furniture Name="Bookshelf">
 		<Name>Bücherregal</Name>
@@ -117,7 +117,7 @@
 	</Furniture>
 	<Segment Name="Wall">
 		<Name>Wand</Name>
-		<Description>Benutzer diese Funktion, um Fenster und Türen zu entfernen.</Description>
+		<Description>Benutze diese Funktion, um Fenster und Türen zu entfernen.</Description>
 	</Segment>
 	<Segment Name="Standard door">
 		<Name>Standart Tür</Name>
