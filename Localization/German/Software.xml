@@ -34,7 +34,7 @@ Die meisten Programme benötigen ein Betriebssystem um zu laufen. Wenn Kunden au
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Netzwerk</Name>
-				<Description>Wir möchte man sonst anonyme Menschen auf der Welt ärgern, ohne diese praktische Funktion?</Description>
+				<Description>Wie möchte man sonst, anonym Menschen auf der Welt ärgern, ohne einem funktionierenden Netzwerk?</Description>
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Auto-update</Name>
@@ -46,11 +46,11 @@ Die meisten Programme benötigen ein Betriebssystem um zu laufen. Wenn Kunden au
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC Lautsprecher</Name>
-				<Description>Für alle die Peep Töne benötigen.</Description>
+				<Description>Für alle die Piep Töne benötigen.</Description>
 			</Feature>
 			<Feature Name="8-bit audio">
 				<Name>8-bit Audio</Name>
-				<Description>Wenn man mehr als einen Peep benötigt.</Description>
+				<Description>Wenn man mehr als einen Piep benötigt.</Description>
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
@@ -60,7 +60,7 @@ Die meisten Programme benötigen ein Betriebssystem um zu laufen. Wenn Kunden au
 	</Software>
 	<Software Name="Visual Tool">
 		<Name>Visual Tool</Name>
-		<Description>Das visülle Werkzeug ist für die Erstellung der bildenden Kunst, sei es 3D Animationen oder Pixelart.</Description>
+		<Description>Das visuelle Werkzeug ist für die Erstellung der bildenden Kunst, sei es 3D Animationen oder Pixelart.</Description>
 		<Features>
 			<Feature Name="Image viewing">
 				<Name>Bildbetrachtung</Name>
