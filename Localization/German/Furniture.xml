@@ -97,7 +97,7 @@
 	</Furniture>
 	<Furniture Name="Big Plant">
 		<Name>große Pflanze</Name>
-		<Description>Nimmt viel Platz weg, aber die Mitarbeiter sind sich einig sie finden sie schön.</Description>
+		<Description>Nimmt viel Platz weg, aber die Mitarbeiter finden sie schön.</Description>
 	</Furniture>
 	<Furniture Name="Clock">
 		<Name>Uhr</Name>
@@ -121,7 +121,7 @@
 	</Segment>
 	<Segment Name="Standard door">
 		<Name>Standart Tür</Name>
-		<Description>Ist eine Tür, kann man durch gehen...</Description>
+		<Description>Es ist eine Tür. Man kann mit Türen andere Räume erreichen.</Description>
 	</Segment>
 	<Segment Name="Sliding glass door">
 		<Name>Glas-Schiebetür</Name>
@@ -129,7 +129,7 @@
 	</Segment>
 	<Segment Name="Elevator">
 		<Name>Fahrstuhl</Name>
-		<Description>Platziere Aufzüge um Stockwerke mit einander zu verbinden.</Description>
+		<Description>Platziere Aufzüge um Stockwerke miteinander zu verbinden.</Description>
 	</Segment>
 	<Segment Name="Small window">
 		<Name>kleines Fenster</Name>
