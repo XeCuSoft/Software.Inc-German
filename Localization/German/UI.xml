@@ -1072,9 +1072,6 @@ Unternehmen gekauft: {5}</Item>
 		<Item Name="Description">Beschreibung</Item>
 		<Item Name="Client">Kunde / Auftraggeber</Item>
 		<Item Name="Offer">Angebot</Item>
-		<Item Name="WorkDealDetail">Art: {0}
-Software: {1}
-pro Tag: {2}</Item>
 		<Item Name="ServerDealDetail">Art: {0}
 Leistungseinheit pro Stunde: {1}
 Benötigten Einheiten: {2}</Item>
@@ -1117,5 +1114,35 @@ Zur Sicherheit speicher dein aktuellen Spielstand und starte das Spiel neu, um D
 Hast du eine Idee was passiert sein könnte basierend auf der Fehlermeldung (Klicke auf "Fehler anzeigen" zur Überprüfung) ich wäre dir sehr dankbar wenn du mir eine Beschreibung des Fehlers per Email an SoftwareInc@Coredumping.com senden könntest, damit ich diesen beheben kann.
 Tut mir sehr leid für die Unannehmlichkeiten.</Item>
 		<Item Name="UI size">UI Größe</Item>
+		<Item Name="NoCompanyName">Du must einen Firmenname eingeben</Item>
+		<Item Name="Save picture">Bild speichern</Item>
+		<Item Name="Tweet picture">Tweet picture</Item>
+		<Item Name="TwitterDesc">Was willst du der Welt erzählen?</Item>
+		<Item Name="DefaultTweet">Look at my software empire! #SoftwareInc</Item>
+		<Item Name="Enter pin">Pin eingeben</Item>
+		<Item Name="TweetError">Bei dem Versucht dein Bild bei Twitter zu posten, ist ein Fehler aufgetretten.</Item>
+		<Item Name="SteamImgQ">Möchtest du dieses Screenshot auf deinem Steam Account speichern?</Item>
 	</Alpha5.3>
+	<Alpha5.4>
+		<Item Name="WindowPref">Fenster Einstellungen</Item>
+		<Item Name="Reset">zurückstellen</Item>
+		<Item Name="Upcoming releases">kommende Releases</Item>
+		<Item Name="UpcomingRelDesc">Hier finden du eine Liste, der angekündigten Releases von deinen Mitbewerbern.</Item>
+		<Item Name="Close all windows">Schließe alle Fenster</Item>
+		<Item Name="CloseAllWindowWarning">Bist du sicher, dass du dieses Fenster schließen möchtest?</Item>
+		<Item Name="Only sequels">nur Fortsetzung</Item>
+		<Item Name="Select fallback">wähle Rückzug</Item>
+		<Item Name="Fallback">Rückzug</Item>
+		<Item Name="AutoDevProjDetails">Aktuelle Projektdetails:
+Name: {0}
+Art: {1}
+Umfang: {2}</Item>
+		<Item Name="Project">Projekt</Item>
+				<Item Name="NewWorkDealDetail">Art: {0}
+Software: {1}
+pro Tag: {2}
+Gültig bis: {3}</Item>
+		<Item Name="Desert">Wüste</Item>
+		<Item Name="Tundra">Tundra</Item>
+	</Alpha5.4>
 </UI>
