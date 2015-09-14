@@ -1,11 +1,11 @@
 <Furniture>
 	<Furniture Name="Table">
 		<Name>Tisch</Name>
-		<Description>Setze was drauf oder Stühle drum rum.</Description>
+		<Description>Lege etwas drauf oder stelle Stühle drum rum.</Description>
 	</Furniture>
 	<Furniture Name="Glass Table">
 		<Name>Glastisch</Name>
-		<Description>Genieße den Blick auf die Füße, während du arbeitest.</Description>
+		<Description>Genieße den Anblick deiner Füße, während du arbeitest.</Description>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Günstiger Stuhl</Name>
@@ -17,27 +17,27 @@
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
 		<Name>Wartestühle</Name>
-		<Description>Sitz Möglichkeit für deine Kunden.</Description>
+		<Description>Sitzmöglichkeit für deine Kunden.</Description>
 	</Furniture>
 	<Furniture Name="Couch">
 		<Name>Sofa</Name>
-		<Description>Sofa und Fernseher wie Zuhause im Wohnzimmer, was will man mehr?</Description>
+		<Description>Sofa und Fernseher wie zu Hause im Wohnzimmer, was will man mehr?</Description>
 	</Furniture>
 	<Furniture Name="Radiator">
 		<Name>Heizkörper</Name>
-		<Description>Anti-Winter-Machine</Description>
+		<Description>Anti-Winter-Maschine</Description>
 	</Furniture>
 	<Furniture Name="Ventilation">
 		<Name>Ventilator</Name>
-		<Description>Anti-Sommer-Machine</Description>
+		<Description>Anti-Sommer-Maschine</Description>
 	</Furniture>
 	<Furniture Name="Old Computer">
-		<Name>alter Computer</Name>
+		<Name>Alter Computer</Name>
 		<Description>Mehr Pixel als man an einer Hand abzählen kann!</Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
-		<Name>High-End Computer</Name>
-		<Description>High-End Computer um während der Arbeit spielen zu können.</Description>
+		<Name>High-End-Computer</Name>
+		<Description>High-End-Computer um während der Arbeit spielen zu können.</Description>
 	</Furniture>
 	<Furniture Name="HoloComputer">
 		<Name>HoloComputer</Name>
@@ -45,31 +45,31 @@
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
-		<Description>Vergewissere dich, dass deine Mitarbeiter sehen können was sie da tun.</Description>
+		<Description>Vergewissere dich, dass deine Mitarbeiter sehen können was sie tun.</Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Tischlampe</Name>
-		<Description>Bringt Licht ins dunkeln.</Description>
+		<Description>Bringt Licht ins Dunkeln.</Description>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
 		<Name>Stehleuchte</Name>
-		<Description>Licht an, auf einer Art und Weise.</Description>
+		<Description>Erzeugt Licht, steht aber im Weg</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Kühlschrank</Name>
 		<Description>Lebensmittel-Generator</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Löslicher Kaffee</Name>
-		<Description>Sie genießen braunes Pulver in heißem Wasser und denken sie fühlen sich weniger müde?</Description>
+		<Name>TurboKaffee</Name>
+		<Description>Sie genießen ein braunes Pulver in heißem Wasser und Ich glaube, Sie fühlen sich nun weniger müde?</Description>
 	</Furniture>
 	<Furniture Name="Coffee">
 		<Name>Kaffeemaschine</Name>
-		<Description>Eine einfache Filter Kaffeemaschine.</Description>
+		<Description>Eine einfache Filterkaffeemaschine.</Description>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
-		<Name>Espresso Maschine</Name>
-		<Description>Liefert qualitativ hochwertigen Kaffee. Sie ist laut und verbraucht unmengen an Wasser und Strom.</Description>
+		<Name>Espressomaschine</Name>
+		<Description>Liefert qualitativ hochwertigen Kaffee. Sie ist laut und verbraucht Unmengen an Wasser und Strom.</Description>
 	</Furniture>
 	<Furniture Name="Toilet">
 		<Name>Toilette</Name>
@@ -88,15 +88,15 @@
 		<Description>Ein Regal voller Bücher!</Description>
 	</Furniture>
 	<Furniture Name="Floor Plant">
-		<Name>Boden Pflanze</Name>
-		<Description>Eine charmante Boden Pflanze.</Description>
+		<Name>Topfpflanze</Name>
+		<Description>Eine charmante Topfpflanze.</Description>
 	</Furniture>
 	<Furniture Name="Table Plant">
 		<Name>Tischpflanze</Name>
 		<Description>Low-poly Bonsaibaum</Description>
 	</Furniture>
 	<Furniture Name="Big Plant">
-		<Name>große Pflanze</Name>
+		<Name>Große Pflanze</Name>
 		<Description>Nimmt viel Platz weg, aber die Mitarbeiter finden sie schön.</Description>
 	</Furniture>
 	<Furniture Name="Clock">
@@ -104,15 +104,15 @@
 		<Description>Zeitmaschine!(Nicht wirklich eine Zeitmaschine)</Description>
 	</Furniture>
 	<Furniture Name="Small Server">
-		<Name>kleiner Server</Name>
+		<Name>Kleiner Server</Name>
 		<Description>Ein normaler Computer, aber mit mehr Internet.</Description>
 	</Furniture>
 	<Furniture Name="Tower Server">
-		<Name>Tower Server</Name>
+		<Name>Tower-Server</Name>
 		<Description>Ein Hochleistungs-Turm (Nicht wirklich ein Turm)</Description>
 	</Furniture>
 	<Furniture Name="Server Rack">
-		<Name>Server Rack</Name>
+		<Name>Server-Regal</Name>
 		<Description>Wenn ein Computer, nicht genug ist.</Description>
 	</Furniture>
 	<Segment Name="Wall">
@@ -120,24 +120,23 @@
 		<Description>Benutze diese Funktion, um Fenster und Türen zu entfernen.</Description>
 	</Segment>
 	<Segment Name="Standard door">
-		<Name>Standart Tür</Name>
-		<Description>Es ist eine Tür. Man kann mit Türen andere Räume erreichen.</Description>
+		<Name>Standard Tür</Name>
+		<Description>Es ist eine Tür. Man kann mit Türen Räume verbinden.</Description>
 	</Segment>
 	<Segment Name="Sliding glass door">
 		<Name>Glas-Schiebetür</Name>
-		<Description>Eine Tür die man, im Stress schnell mal übersieht.</Description>
+		<Description>Eine Tür, die man schnell mal übersieht.</Description>
 	</Segment>
 	<Segment Name="Elevator">
 		<Name>Fahrstuhl</Name>
 		<Description>Platziere Aufzüge um Stockwerke miteinander zu verbinden.</Description>
 	</Segment>
 	<Segment Name="Small window">
-		<Name>kleines Fenster</Name>
+		<Name>Kleines Fenster</Name>
 		<Description>Spendet Licht und frische Luft.</Description>
 	</Segment>
 	<Segment Name="Large window">
-		<Name>großes Fenster</Name>
+		<Name>Großes Fenster</Name>
 		<Description>Für mehr Licht und noch mehr frische Luft.</Description>
 	</Segment>
 </Furniture>
-
