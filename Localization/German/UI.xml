@@ -532,7 +532,6 @@ Empfohlene Teamgröße: {8}</Item>
 		<Item Name="Click and drag">Klicken und ziehen</Item>
 		<Item Name="RoomClosedOff">Es gibt keine Möglichkeit diesen Raum zu betreten. Baue Türen oder Aufzüge.</Item>
 		<Item Name="PublicToiletWarning">Deine Mitarbeiter werden nicht die öffentlichen Toiletten benutzen.Baue Toiletten in speraten Räumen.</Item>
-		<Item Name="RoomTempratureWarning">Baue mehr Heizungen und Ventilatoren für eine optimale Raumtemperatur.</Item>
 		<Item Name="RoomOvercrowdWarning">Es gibt zu viele Computer in diesen Raum. überfüllte Räume lenken deine Mitarbeiter ab.</Item>
 		<Item Name="RoomLighingWaning">Es ist nicht genug Licht hier. Baue mehr Fenster oder Lampen.</Item>
 		<Item Name="ComputerBrokeWarning">Ein Computer ist kaputt und benötigt denn IT-Support.</Item>
@@ -1145,4 +1144,88 @@ Gültig bis: {3}</Item>
 		<Item Name="Desert">Wüste</Item>
 		<Item Name="Tundra">Tundra</Item>
 	</Alpha5.4>
+	<Alpha6>
+		<Item Name="ActionDismantle">Abbauen</Item>
+		<Item Name="Dismantle">Abbauen</Item>
+		<Item Name="DismantleMsg">Bist du sicher, das du diese Wandelemente {0} entfernen möchtest?</Item>
+		<Item Name="DismantleMsg2">Entferne {0} Wandelement</Item>
+		<Item Name="WallSegments">Wandelement</Item>
+		<Item Name="AngleSnapDesc">ändere Möbelposition</Item>
+		<Item Name="DoubleGridSize">Rastergröße +</Item>
+		<Item Name="HalveGridSize">Rastergröße -</Item>
+		<Item Name="ChangeGridAnchor">Raster, um ein Objekt</Item>
+		<Item Name="ResetGrid">Raster zurücksetzen</Item>
+		<Item Name="ActionMergeRooms">Zusammenführen von Zimmer</Item>
+		<Item Name="Turn furniture clockwise">Möbel im Uhrzeigersinn drehen</Item>
+		<Item Name="Turn furniture counter clockwise">Möbel drehen gegen den Uhrzeigersinn</Item>
+		<Item Name="Grid">Raster</Item>
+		<Item Name="ActionSelectWall">Wähle alle Segmente an dieser Wand</Item>
+		<Item Name="ActionDuplicate">Duplikat</Item>
+		<Item Name="RoomAngleError">Wandwinkel muss größer als 30° sein</Item>
+		<Item Name="RoomNarrowError">Raum Wände haben 1,0 Einheit auseinander zu sein</Item>
+		<Item Name="RoomIntersectError">Wände können nicht überschneiden</Item>
+		<Item Name="RoomInsideError">Du kannst keinen Raum um einen Raum bauen.</Item>
+		<Item Name="FurnitureSnapError">Dies muss an den angegebenen Punkten platziert werden.</Item>
+		<Item Name="RoomInRoomError">Du kannst keinen Raum in einem Raum bauen.</Item>
+		<Item Name="Construct rectangle room">Rechteck-Raum konstruieren</Item>
+		<Item Name="CorruptSaveFile">
+Speichern nicht möglich, die Datei ist beschädigt.
+Es ist wahrscheinlich von einer älteren Version von Software Inc., die nicht mehr unterstützt wird.</Item>
+	</Alpha6>
+	<Alpha6.4>
+		<Item Name="DynamicSegmentHint">Klicken und ziehen, um Segment zu skalieren</Item>
+	</Alpha6.4>
+	<Alpha6.5>
+		<Item Name="RotateFurnHint2">Klicken und ziehen, um Möbel zu drehen
+oder drücke {0} oder {1}</Item>
+		<Item Name="Delete">Löschen</Item>
+		<Item Name="DeleteSaveConf">Bist du sicher das die diesen Speicherpunkt löschen möchtest?
+Du kannst ihn nicht wiederherstellen!</Item>
+		<Item Name="DeleteFail">Ein Fehler ist aufgetreten beim löschen der Datei.
+Überprüfe ob du die Berechtigung hast diese Datei zu löschen.</Item>
+		<Item Name="AskMarketingOption">Informiere dich über die Vermarktung von Release</Item>
+	</Alpha6.5>
+	<Alpha6.11>
+		<Item Name="Overall skill">Allgemeine Fähigkeiten</Item>
+		<Item Name="Skill interview">Fähigkeiten Interview</Item>
+		<Item Name="Specialization interview">Spezialisierung Interview</Item>
+		<Item Name="Personality interview">Persönlichkeit Interview</Item>
+		<Item Name="SSAA">SSAA</Item>
+		<Item Name="SSAAHint">Super-sampling antialiasing Rendert das Spiel in doppelter Auflösung und glättet die Kanten so weit wie möglich</Item>
+		<Item Name="Event">Ereignis</Item>
+		<Item Name="InsuranceDescription">Lebensversicherung pro Mitarbeiter: {0}
+Krankenversicherung pro Mitarbeiter: {1}
+Rente pro Mitarbeiter: {2}</Item>
+		<Item Name="Payments">Zahlungen</Item>
+		<Item Name="Employee">Mitarbeiter</Item>
+	</Alpha6.11>
+	<Alpha6.12>
+		<Item Name="Loans">Kredit</Item>
+	</Alpha6.12>
+	<Alpha6.13>
+		<Item Name="KeyBindingHint">Drücke eine Taste...</Item>
+		<Item Name="Context menu">Kontextmenü</Item>
+		<Item Name="Rotate camera">Kamera drehen</Item>
+	</Alpha6.13>
+	<Alpha6.14>
+		<Item Name="Segment">Segment</Item>
+	</Alpha6.14>
+	<Alpha6.18>
+		<Item Name="SaveDeletedError">Diese Sicherungsdatei existiert nicht mehr auf Ihrem Computer und wird entfernt</Item>
+		<Item Name="ExteriorWallFurn">Du musst dies auf einer Außenwand platzieren</Item>
+		<Item Name="BasementFurnError">Möbel kann nicht im Keller platziert werden</Item>
+		<Item Name="RoomTempratureWarning2">Baue mehr Heizungen und Ventilatoren für eine optimale Raumtemperatur.</Item>
+		<Item Name="TemperatureOveruse">Eine Temperatur-Regelanlage ist überlastet. Bitte füge weitere Regeleinheiten auf den Gebäudekomplex hinzu.</Item>
+	</Alpha6.18>
+	<Alpha6.21>
+		<Item Name="Selection">Auswahl</Item>
+		<Item Name="Select multiple">Wähle mehrere</Item>
+	</Alpha6.21>
+	<Alpha6.22>
+		<Item Name="FurnitureInLimitRoomWarning">An employee has been assigned a(n) {0} in a room that the employee is not allowed in</Item>
+		<Item Name="EmployeeArtWorkWarning">{0} arbeitet an der Gestaltung für {1} ist aber nicht in der Gestaltung ausgebildet und könnte die Abgabe verzögern oder die Gestaltung ruinieren.</Item>
+		<Item Name="EmployeeProgrammingWorkWarning">{0} ist Programmierer für {1} ist aber nicht ausgebildet in der Programmierung und könnte die Abgabe verzögern und Fehler hinzufügen.</Item>
+		<Item Name="EmployeeDesignWorkWarning">{0} ist Designer für {1} ist aber nicht ausgebildet als Designer und könnte die Abgabe verzögern oder Fehler hinzufügen.</Item>
+		<Item Name="RoadBusSignError">Du kannst keine Straße vor der Bushaltestelle bauen.</Item>
+	</Alpha6.22>
 </UI>
