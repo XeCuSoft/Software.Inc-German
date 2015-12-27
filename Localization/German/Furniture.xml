@@ -1,4 +1,8 @@
 <Furniture>
+	<Furniture Name="Elevator">
+		<Name>Fahrstuhl</Name>
+		<Description>Platziere Aufzüge um Stockwerke miteinander zu verbinden.</Description>
+	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tisch</Name>
 		<Description>Lege etwas drauf oder stelle Stühle drum rum.</Description>
@@ -23,13 +27,29 @@
 		<Name>Sofa</Name>
 		<Description>Sofa und Fernseher wie zu Hause im Wohnzimmer, was will man mehr?</Description>
 	</Furniture>
+	<Furniture Name="Small Heater">
+		<Name>kleiner Ofen</Name>
+		<Description>Damit deine Mitarbeiter, im Winter nicht frieren.</Description>
+	</Furniture>
+	<Furniture Name="Ceiling Fan">
+		<Name>Deckenventilator</Name>
+		<Description>Sorgt für ein angenehmes Klima im Sommer- und eine optimale Wärmeverteilung im Winter.</Description>
+	</Furniture>
 	<Furniture Name="Radiator">
-		<Name>Heizkörper</Name>
-		<Description>Anti-Winter-Maschine</Description>
+		<Name>Heizung</Name>
+		<Description>Wärmt deine Büros effektiver, als der kleine Ofen.</Description>
 	</Furniture>
 	<Furniture Name="Ventilation">
-		<Name>Ventilator</Name>
-		<Description>Anti-Sommer-Maschine</Description>
+		<Name>Wandventilator</Name>
+		<Description>Versorgt die Büros mit frischer Luft und sorgt für ein angenehmes Raumklima.</Description>
+	</Furniture>
+	<Furniture Name="Central Heating">
+		<Name>Zentralheizung</Name>
+		<Description>Benötigt zwar viel Platz, heizt deine Gebäude aber am besten.</Description>
+	</Furniture>
+	<Furniture Name="AC Unit">
+		<Name>Klimaanlage</Name>
+		<Description>Sorgt für ein angenehmes Raumklima, besonders an warmen Sommertagen.</Description>
 	</Furniture>
 	<Furniture Name="Old Computer">
 		<Name>Alter Computer</Name>
@@ -91,6 +111,10 @@
 		<Name>Topfpflanze</Name>
 		<Description>Eine charmante Topfpflanze.</Description>
 	</Furniture>
+	<Furniture Name="Reception desk">
+		<Name>Rezeption</Name>
+		<Description>Empfangstheke für deine Kunden.</Description>
+	</Furniture>
 	<Furniture Name="Table Plant">
 		<Name>Tischpflanze</Name>
 		<Description>Low-poly Bonsaibaum</Description>
@@ -115,10 +139,6 @@
 		<Name>Server-Regal</Name>
 		<Description>Wenn ein Computer, nicht genug ist.</Description>
 	</Furniture>
-	<Segment Name="Wall">
-		<Name>Wand</Name>
-		<Description>Benutze diese Funktion, um Fenster und Türen zu entfernen.</Description>
-	</Segment>
 	<Segment Name="Standard door">
 		<Name>Standard Tür</Name>
 		<Description>Es ist eine Tür. Man kann mit Türen Räume verbinden.</Description>
@@ -127,9 +147,9 @@
 		<Name>Glas-Schiebetür</Name>
 		<Description>Eine Tür, die man schnell mal übersieht.</Description>
 	</Segment>
-	<Segment Name="Elevator">
-		<Name>Fahrstuhl</Name>
-		<Description>Platziere Aufzüge um Stockwerke miteinander zu verbinden.</Description>
+	<Segment Name="Double doors">
+		<Name>Doppeltür</Name>
+		<Description>Große Eingangstür mit zwei türen.</Description>
 	</Segment>
 	<Segment Name="Small window">
 		<Name>Kleines Fenster</Name>
@@ -138,5 +158,9 @@
 	<Segment Name="Large window">
 		<Name>Großes Fenster</Name>
 		<Description>Für mehr Licht und noch mehr frische Luft.</Description>
+	</Segment>
+	<Segment Name="Wide window">
+		<Name>breites Fenster</Name>
+		<Description>Schönes breites Fenster, das für mehr Licht und frische Luft sorgt.</Description>
 	</Segment>
 </Furniture>
